@@ -1,5 +1,6 @@
 // To get the Reporters - use the below code
 // mocha test/ --reporter dot
+// mocha test/ --reporter nyan
 
 var assert = require('assert');
 
