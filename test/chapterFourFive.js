@@ -16,7 +16,7 @@ var assert = require('assert');
 
 describe('Mathematical Operations - Test Suite', function(){
 
-  this.timeout(10000);
+  this.timeout(10000); // bigger than set timeout so it passes
 
     var a = 10;
     var b = 10;
